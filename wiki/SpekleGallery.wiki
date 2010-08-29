@@ -54,8 +54,6 @@ http://spekle.googlecode.com/svn/wiki/RA183_091130_Jan-Krueger-residentadvisor.n
 http://spekle.googlecode.com/svn/wiki/acquaviva_august08.mp3.png
 http://spekle.googlecode.com/svn/wiki/acquaviva_bogota_Dec08.mp3.png
 http://spekle.googlecode.com/svn/wiki/all_my_midi,_on_db60xg-Track_1-1.ogg.png
-http://spekle.googlecode.com/svn/wiki/all_my_midi,_on_db60xg-Track_1-2.ogg.png
-http://spekle.googlecode.com/svn/wiki/all_my_midi,_on_db60xg-Track_2-1.ogg.png
 http://spekle.googlecode.com/svn/wiki/chpn_op53_coggie.ogg.png
 http://spekle.googlecode.com/svn/wiki/dfgdfg-Track_1-1.ogg.png
 http://spekle.googlecode.com/svn/wiki/fs1r.mp3.png
