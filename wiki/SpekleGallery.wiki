@@ -1,4 +1,4 @@
-#summary Gallery of Spectrograms generated testing Spekle http://code.google.com/p/spekle/source/detail?r=12
+#summary Gallery of Spectrograms generated testing <A href="http://code.google.com/p/spekle/source/detail?r=12">Spekle</A>
 
 = Spekle Gallery =
 
