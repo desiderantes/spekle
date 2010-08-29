@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Gallery of Spectrograms generated testing Spekle "revision 12"
 
 = Spekle Gallery =
 
